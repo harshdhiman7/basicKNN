@@ -43,7 +43,7 @@ def main():
 
     # Display the prediction
     st.write(f'The patient is : {predicted_label}')
-    st.success('This is a success message!', icon="✅")
+   
 if __name__ == '__main__':
     main()
 
